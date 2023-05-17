@@ -1,8 +1,3 @@
-/**
- * jQuery Mouse Direction Plugin
- * @version: 1.1
- * @author Hasin Hayder [hasin@leevio.com | http://hasin.me]
- */
 (function ($) {
     var options = {};
     var oldx = 0;
